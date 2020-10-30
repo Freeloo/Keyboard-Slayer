@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NavyOS](https://github.com/Project-Navy/NavyOS) and helping with the developpement of [skiftOS](https://github.com/skiftOS/skift)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Keyboard-Slayer?tab=repositories](https://github.com/Keyboard-Slayer?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Keyboard-Slayer?tab=repositories)
 
 - 📫 How to reach me **keyboard-slayer@navy-os.tech** or **quality-service@skiftos.org**
 
